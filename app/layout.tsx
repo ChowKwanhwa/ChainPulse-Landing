@@ -28,8 +28,8 @@ export const metadata: Metadata = {
     description: '专业的Web3品牌内容与社群运营服务商',
   },
   icons: {
-    icon: '/Logo.png',
-    apple: '/Logo.png',
+    icon: '/logo.png',
+    apple: '/logo.png',
   },
 }
 
